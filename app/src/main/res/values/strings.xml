@@ -9,4 +9,6 @@
     <string name="button_url">Open Website</string>
     <string name="button_loc">Open Location</string>
     <string name="button_share">Share</string>
+    <string name="log_error">Can not handle this intent!</string>
+    <string name="share_message">Share this text with:</string>
 </resources>
